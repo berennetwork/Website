@@ -1,2 +1,0 @@
-# Website
-GitHub Pages
